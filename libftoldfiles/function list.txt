@@ -1,0 +1,48 @@
+• isalpha CHECK
+• isdigit CHECK
+• isalnum CHECK
+• isascii CHECK
+• isprint CHECK
+• strlen CHECK
+• memset CHECK
+• bzero CHECK
+• memcpy CHECK
+
+• memmove CHECK
+• strlcpy CHECK
+• strlcat CORRECTING ERROR SINTAXES RIGHT
+• toupper CHECKft_itoa DOING
+• tolower CHECK
+• strchr CHECK
+• strrchr CHECK
+• strncmp CHECK
+• memchr CHECK
+• memcmp CHECK
+• strnstr CHECK - CHANGE TO PUT A RIGHT FUNCTION FROM MY LIB
+• atoi CHECK
+
+• calloc CHECK
+• strdup CHECK
+
+ft_substr // CHECK
+ft_strjoin // CHECK
+ft_strtrim // CHECK
+ft_split DOING
+ft_itoa CHECK
+ft_strmapi DOING
+ft_striteri DOING
+ft_putchar_fd
+ft_putstr_fd
+ft_putendl_fd
+ft_putnbr_fd
+
+Bonus Part
+ft_lstnew
+ft_lstadd_front
+ft_lstsize
+ft_lstlast
+ft_lstadd_back
+ft_lstdelone
+ft_lstclear
+ft_lstiter
+ft_lstmap
